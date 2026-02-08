@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Счётчик",
+    "slug": "ev-counter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.evcounter"
+    },
+    "android": {
+      "package": "com.evcounter"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
